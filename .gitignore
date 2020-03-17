@@ -1,0 +1,5 @@
+.idea
+*.class
+.out
+/Aufgaben.iml
+/out/production/Aufgaben/META-INF/Aufgaben.kotlin_module
