@@ -30,6 +30,10 @@ public class TimeClock {
         return minutesOnClock;
     }
 
+    public int minRemaining() {
+        return minutesOnClock%60;
+    }
+
     public int totalTimeHour() {
         return minutesOnClock / 60;
     }
